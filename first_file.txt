@@ -3,6 +3,7 @@ line ten
 line two
 line three
 line four
+line eight
 line five
 line seven
 line six
